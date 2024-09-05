@@ -102,4 +102,5 @@ webpack-dist
 # TernJS port file
 .tern-port
 
-
+# SWC cache
+.swc/
