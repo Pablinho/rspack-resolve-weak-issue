@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Fixed on @rspack/core: 1.0.4
+
 ## Usages
 
 `pnpm run build` would both run Webpack and Rspack with config `./config.mjs`
